@@ -9,3 +9,8 @@ datadog_checks:
     instances:
       - name: Localhost
         url: http://localhost
+
+redmine_db_mysql: rc1b-zhr7mbdxdom8rag6.mdb.yandexcloud.net
+redmine_db_username: mcomet
+redmine_db_database: db1
+redmine_db_port: 3306
